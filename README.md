@@ -24,9 +24,8 @@ Below is the terms we are using in this documents. You may not see it before, or
 | Security Token| Token string is submitted along with API call for authentication |
 
 
-Before programming with PayFabric, you need a PayFabric account to get started. We have a [Quick Start](https://github.com/PayFabric/Portal/wiki) to guide you through the preparations. 
+Before programming with PayFabric, you need a PayFabric account to get started. We have a [Quick Start](Sections/Quick%20Start.md) to guide you through the preparations. 
 
 # Extended Reading
-* [Getting Started](https://github.com/PayFabric/Portal/wiki)
 * [APIs](https://github.com/PayFabric/PayFabric-APIs/tree/v2)
-* [Settings](https://github.com/PayFabric/Portal/wiki/PayFabric-Settings)
+* [Settings](Sections/PayFabric%20Settings.md)
