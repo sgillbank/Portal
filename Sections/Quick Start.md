@@ -1,8 +1,8 @@
 # Quick Start in five minutes
 To start integration with PayFabric, developers will have to pre-configure something on PayFabric portal. The simplest scenario is you are just consuming the **Payment APIs**, in this case, you have to
-* [Sign up a PayFabric Account](https://github.com/PayFabric/Portal/wiki#sign-up)
-* [Define Devices](https://github.com/PayFabric/Portal/wiki#define-devices)
-* [Setup a Gateway Account](https://github.com/PayFabric/Portal/wiki#setup-gateway-account)
+* [Sign up a PayFabric Account](#sign-up)
+* [Define Devices](#define-devices)
+* [Setup a Gateway Account](#setup-gateway-account)
 
 
 ## Sign up
@@ -48,13 +48,13 @@ The 4 fields above the section "Gateway Fields" are required by PayFabric system
 | Processor            | Filtered by Connector. These are corresponding to the bank processors belong to a specific payment gateway. |
 | Card Class           | Credit or ECheck. These are tender types this connector and process can support.|  
 
-By picking up one connector, "Gateway Fields" section is displayed, where merchant will populate the necessary fields. To see in-depth details for the required fields for each gateway, check out the [Gateway Account Profiles](https://github.com/PayFabric/Portal/wiki/Gateway-Account-Profiles) page.
+By picking up one connector, "Gateway Fields" section is displayed, where merchant will populate the necessary fields. To see in-depth details for the required fields for each gateway, check out the [Gateway Account Profiles](Gateway%20Account%20Profiles.md) page.
 
-So, that's it! You are ready now to call the PayFabric Payment API. See more details [here](https://github.com/PayFabric/APIs/tree/master) on the functionalities of our PayFabric API.
+So, that's it! You are ready now to call the PayFabric Payment API. See more details [here](https://github.com/PayFabric/APIs/tree/v2) on the functionalities of our PayFabric API.
 
 # Advanced Settings
 For those developers who want to integrate **PayFabric Hosted Payment Page (PCI DSS Certified)** 
-* [PayFabric Settings](https://github.com/PayFabric/Portal/wiki/PayFabric-Settings)
-* [L2/3 Fields Default](https://github.com/PayFabric/Portal/wiki/L2-and-L3-Fields-Default)
-* [Receipt Email](https://github.com/PayFabric/Portal/wiki/Payment-Receipt)
-* [Themes](https://github.com/PayFabric/Portal/wiki/Themes)
+* [PayFabric Settings](PayFabric%20Settings.md)
+* [L2/3 Default Fields](Level%202%20and%20Level%203%20Default%20Fields.md)
+* [Receipt Email](Payment%20Receipt.md)
+* [Themes](Themes.md)
