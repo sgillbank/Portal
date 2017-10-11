@@ -15,7 +15,6 @@ Setup email subject.
 ### Body
 Setup the email template. PayFabric support to setup seperate email templates for different transaction types and different tender types. The textboxes accepts html tags. PayFabric automatically setup a simple email template as below, you can preivew the email template by clicking the "preview" button on the right bottom corner of each textbox.
 
-![sample](http://repo.payfabric.com/userguide/emailreceipt2.png)
 
 ### Template Parameters
 Following parameters are able to be embeded into email templates. At the moment of sending a receipt, these parameters are going to be replaced by the actual values.
