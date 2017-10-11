@@ -38,5 +38,5 @@ These are settings relate to process a payment transaction. Please refer to the 
 | Maximum Amount Per Transaction | Apply an up limit onto the maximum amount for each transaction |
 | Return URL                     | A URL address that PayFabric can redirect to once a transaction is processed. the response fields will be encoded and attached into query string.|
 | Maximum Shipping Address       | Restrict the maximum number of shipping address entries which customer can create. The loading performance of hosted page may be lagged because your customer creating a large number of shipping address entries|
-| Config UOM Mapping for GGe4 | View [this](https://github.com/PayFabric/Portal/wiki/FirstData-GGe4-UoM-Mapping) article to get detailed information |
+| Config UOM Mapping for GGe4 | View [this](FirstData%20GGe4%20(Payeezy)%20UoM%20Mapping.md) article to get detailed information |
 
