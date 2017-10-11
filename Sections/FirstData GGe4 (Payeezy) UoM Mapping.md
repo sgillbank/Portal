@@ -1,6 +1,6 @@
 # Background
 
-If your application is sending [Level 3 transaction fields](https://github.com/PayFabric/Portal/wiki/L2-and-L3-Fields-Default) onto PayFabric and your gateway is First Data GGe4, you must make sure the "ItemUOM" transaction field is set to correct code. Otherwise, your transaction will not get upgraded interchange rate during settlement. And this happen only your customer is using "Business/Corporate Card". A full list of UoM code is [here](https://firstdata.zendesk.com/entries/23393247-Units-of-Measure). Below is a screenshot of this page.
+If your application is sending [Level 3 transaction fields](Level%202%20and%20Level%203%20Default%20Fields.md) onto PayFabric and your gateway is First Data GGe4, you must make sure the "ItemUOM" transaction field is set to correct code. Otherwise, your transaction will not get upgraded interchange rate during settlement. And this happen only your customer is using "Business/Corporate Card". A full list of UoM code is [here](https://firstdata.zendesk.com/entries/23393247-Units-of-Measure). Below is a screenshot of this page.
 
 ![uomcode](https://s3-us-west-1.amazonaws.com/github-screenshot-repository/v2/uommapping.png)
 
