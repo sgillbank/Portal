@@ -15,7 +15,7 @@ And currently, PayFabric support below gateways.
 * Forte
 * FrontStream Fundraising Pro
 
-We only listed the required fields as below. You might want to go back [Setup Gateway Account](https://github.com/PayFabric/Portal/wiki#setup-gateway-account) to review the process of creating a gateway account profile on PayFabric.
+We only listed the required fields as below. You might want to go back [Setup Gateway Account](Quick%20Start.md#setup-gateway-account) to review the process of creating a gateway account profile on PayFabric.
 
 ## Payflowpro
 
