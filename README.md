@@ -28,5 +28,5 @@ Before programming with PayFabric, you need a PayFabric account to get started. 
 
 # Extended Reading
 * [Getting Started](https://github.com/PayFabric/Portal/wiki)
-* [APIs](https://github.com/PayFabric/PayFabric-APIs)
+* [APIs](https://github.com/PayFabric/PayFabric-APIs/tree/v2)
 * [Settings](https://github.com/PayFabric/Portal/wiki/PayFabric-Settings)
